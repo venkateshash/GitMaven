@@ -1,1 +1,1 @@
-# GitMaven
+# HelloWorldMaven
