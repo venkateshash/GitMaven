@@ -16,7 +16,7 @@ pipeline
         {
             steps 
             {
-                bat 'mvm test'
+                bat 'mvn test'
             }
         }
 
